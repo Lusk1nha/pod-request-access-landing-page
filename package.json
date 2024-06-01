@@ -2,7 +2,15 @@
   "name": "pod-request-access-landing-page",
   "private": true,
   "version": "0.0.0",
+  "engines": {
+    "node": ">=18"
+  },
   "type": "module",
+  "author": {
+    "email": "lucaspedro517@gmail.com",
+    "name": "Lucas Pedro da Hora",
+    "url": "https://github.com/lusk1nha"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
